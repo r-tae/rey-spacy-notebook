@@ -1,4 +1,4 @@
 spacy>=3.0.0,<4.0.0
-textacy==0.12.0
+textacy>=0.11.0
 textract==1.6.5
 contextualSpellCheck==0.4.3
